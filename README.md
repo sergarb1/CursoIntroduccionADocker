@@ -8,4 +8,4 @@ En este curso intentamos introducir al uso de Docker a través de casos práctic
 El curso esta compartido bajo licencia Creative Commons BY-SA-NC y los fuentes del curso los tenéis disponibles en  
 https://github.com/sergarb1/CursoLearningAnalytics/tree/master/FuentesCurso
 
-Aquí tenéis los enlaces al material para realizar el curso https://sergarb1.github.io/cursointroduccionadocker/
+Aquí tenéis los enlaces al material para realizar el curso https://sergarb1.github.io/CursoIntroduccionADocker/
