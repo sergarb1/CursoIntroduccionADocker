@@ -52,7 +52,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | Casos prácticos UD03 |
 | ------ |
 | [Unidad 03 - Caso práctico 01 - Práctica de comandos en contendor Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.03%20-%20Caso%20practico%2001%20-%20Practica%20de%20comandos%20en%20contendor%20Docker.pdf)|
-| [Unidad 03 - Ficheros extra - Caso práctico 01 - Práctica de comandos en contendor Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/Ficheros%20casos%20practicos%20UD05/UD05-CasoPractico02-HAProxy.zip)|
+| [Unidad 03 - Ficheros extra - Caso práctico 01 - Práctica de comandos en contendor Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/Ficheros%20casos%20practicos%20UD03/Unidad%2003%20-%20Ficheros%20caso%20pr%C3%A1ctico%2001%20(Script%20profesor%20y%20alumnos).zip)|
 | [Unidad 03 - Caso práctico 02 - Instalando LAMP + Wordpress en contenedor](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.04%20-%20Caso%20practico%2002%20-%20Instalando%20LAMP%20%2B%20Wordpress%20en%20contenedor.pdf)|
 | [Unidad 03 - Caso práctico 03 - Accediendo a interfaz gráfica con NoVNC](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.05%20-%20Caso%20practico%2003%20-%20Accediendo%20a%20interfaz%20grafica%20con%20NoVNC.pdf)|
 
