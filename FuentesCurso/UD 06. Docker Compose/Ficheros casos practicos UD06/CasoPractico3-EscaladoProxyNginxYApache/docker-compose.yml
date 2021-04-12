@@ -1,0 +1,28 @@
+version: "3.9"
+#Versión del fichero docker-compose 3.9. No obligatorio desde la versión de docker-compose 1.27.0
+
+#Indicamos los servicios a lanzar
+services:
+  #Plantill del servicio "apache"
+  apache:
+    #Lo construimos con el Dockerfile del directorio "apache"
+    build: ./apache
+    #Indica que siempre que el servicio finalice, se reiniciará
+    restart: always
+    #Expone el puerto 80 de cada contenedor creado
+    ports:
+     - "80"
+
+#Plantilla de nginx
+  nginxproxy:
+    image: nginx:latest
+    #Mapeamos el fichero de configuración de nuestro anfitrión al contenedor
+    volumes:
+      - ./nginxproxy/nginx.conf:/etc/nginx/nginx.conf:ro
+    #Indicamos que depende de apache
+    depends_on:
+      - apache
+    #Enlaza el puerto 4000 del contenedor con el 4000 del anfitrión
+    ports:
+      - "4000:4000"
+

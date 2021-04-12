@@ -1,0 +1,45 @@
+#Version del fichero docker-compose 3.9. No obligatorio desde la version de docker-compose 1.27.0
+version: "3.9"
+
+#Indicamos los servicios a lanzar
+services:
+  #Plantill del servicio "db"
+  db:
+    #Se basa en la imagen "mysql", version 5.7
+    image: mysql:5.7
+    #Mapea en el volumen "db_data" el directorio "/var/lib/mysql", lo que da persistencia al contenido de 
+    #Wordpress almacenado en la base de datos
+    volumes:
+         - db_data:/var/lib/mysql
+    #Indica que siempre que el servicio finalice, se reiniciara
+    restart: always
+    #Define un conjunto de variables de entorno para estos contenedores,
+    #indicando password de root de mysql, nombre de base de datos,
+    # usuario con permisos root (necesario para conexiones remotas) y password de ese usuario
+    environment:
+         MYSQL_ROOT_PASSWORD: somewordpress
+         MYSQL_DATABASE: wordpress
+         MYSQL_USER: wordpress
+         MYSQL_PASSWORD: wordpress
+  #Plantilla del servicio "wordpress"
+  wordpress:
+    #Indicamos que para lanzar este servicio, debe estar en marcha "db"
+    depends_on:
+         - db
+    #Indicamos que basa en la imagen "wordpress", version "latest"
+    image: wordpress:latest
+    #Indicamos que el puerto 80 del contenedor se mapea con el puerto 8000 del anfitrion
+    ports:
+         - "8000:80"
+    #Indica que siempre que el servicio finalice, se reiniciara
+    restart: always
+    #Definimos variables de entorno de la plantilla. Definimos donde conectarnos a la base de datos,
+    #usuario de la base de datos, password de la base de datos y nombre de la base de datos
+    environment:
+         WORDPRESS_DB_HOST: db:3306
+         WORDPRESS_DB_USER: wordpress
+         WORDPRESS_DB_PASSWORD: wordpress
+         WORDPRESS_DB_NAME: wordpress
+    #Indicamos los volumenes creados y compartidos a lo largo del fichero docker-compose.yml
+volumes:
+  db_data:

@@ -1,0 +1,35 @@
+#Versión del fichero docker-compose 3.9. No obligatorio desde la versión de docker-compose 1.27.0
+version: "3.9"
+
+#Indicamos los servicios
+services:
+  #Base de datos
+  db:
+    #Se basa en Postgres
+    image: postgres
+    #Guarda la persistencia de la base de datos en el directorio
+    #./datos/db de donde lancemos Docker Compose
+    volumes:
+      - ./datos/db:/var/lib/postgresql/data
+    #Establece variables de entorno para indicar base de datos, usuario y password
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+  #Crea una aplicación web con Django
+  web:
+    #Construye la imagen a partir de un Dockerfile del directorio actual
+    build: .
+    #Comando por defecto al crear contenedor, lanzar manage.py para que 
+    #lance el servidor web con Django en el puerto 8000
+    command: python manage.py runserver 0.0.0.0:8000
+    #Mapea el código del proyecto Django 
+    # dentro de la carpeta ./codigo del anfitrion
+    volumes:
+      - ./codigo:/code
+    #Enlaza puerto 8000 de contenedor con puerto 8000 de anfitrion
+    ports:
+      - "8000:8000"
+    #Este contenedor depende de "db"
+    depends_on:
+      - db
