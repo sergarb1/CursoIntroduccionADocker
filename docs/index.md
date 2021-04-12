@@ -1,6 +1,6 @@
 # Curso "Introducción a Docker"
 
-***Actualizado - 18/03/2021***
+***Actualizado - 12/04/2021***
 
 Aquí compartimos el material generado para el **curso "Introducción a Docker"**.  Este consta de un total de 8 unidades. En este curso intentamos introducir al uso de Docker a través de casos prácticos.
 
@@ -20,7 +20,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | CheatSheet Docker completa|
 | ------ |
-| [CheatSheet Docker completa - Hasta unidad 04](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/Docker%20CheatSheet%20COMPLETA%20-%20HASTA%20UD04.pdf) |
+| [CheatSheet Docker completa - Hasta unidad 06](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/Docker%20CheatSheet%20COMPLETA%20-%20HASTA%20UD06.pdf) |
 
 
 # UD01 Introducción a los contenedores y a Docker
@@ -78,6 +78,71 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | Actividades UD04 |
 | ------ |
 | [Unidad 04 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/UD%2004.06%20-%20Actividades%20entregables.pdf) |
+
+# UD05 Redes y volúmenes en Docker
+
+| Documentación UD05 |
+| ------ |
+| [Unidad 05 - Redes y volúmenes en Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.01%20-%20Redes%20y%20vol%C3%BAmenes%20en%20Docker.pdf) 
+| [Docker CheatSheet - Unidad 05](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.02%20-%20Docker%20CheatSheet%20-%20Version%20UD05.pdf) |
+
+
+| Casos prácticos UD05 |
+| ------ |
+| [Unidad 05 - Caso practico 01 - Wordpress + MySQL](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.03%20-%20Caso%20practico%2001%20-%20Wordpress%20%2B%20MySQL.pdf)|
+| [Unidad 05 - Caso practico 02 - Balanceo de carga con HAProxy](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.04%20-%20Caso%20practico%2002%20-%20Balanceo%20de%20carga%20con%20HAProxy.pdf)|
+| [Unidad 05 - Ficheros extra - Caso practico 02 - Balanceo de carga con HAProxy](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/Ficheros%20casos%20practicos%20UD05/UD05-CasoPractico02-HAProxy.zip)|
+| [Unidad 05 - Caso practico 03 - Acelerando juegos de prueba con tmpfs](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.05%20-%20Caso%20practico%2003%20-%20Acelerando%20juegos%20de%20prueba%20con%20tmpfs.pdf)|
+| [Unidad 05 - Ficheros extra - Caso practico 03 - Acelerando juegos de prueba con tmpfs](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/Ficheros%20casos%20practicos%20UD05/UD05-CasoPractico003%20-%20dump.sql.zip)|
+
+
+| Actividades UD05 |
+| ------ |
+| [Unidad 05 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.06%20-%20Actividades%20entregables.pdf) |
+
+
+# UD06 Docker Compose
+
+| Documentación UD06 |
+| ------ |
+| [Unidad 06 - Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.01%20-%20Docker%20Compose.pdf) 
+| [Docker CheatSheet - Unidad 06](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.02%20-%20Docker%20CheatSheet%20-%20Version%20UD06.pdf) |
+
+
+| Casos prácticos UD06 |
+| ------ |
+| [Unidad 06 - Caso práctico 01 - Wordpress con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.03%20-%20Caso%20practico%2001%20-%20Wordpress%20con%20Docker%20Compose.pdf)|
+| [Unidad 06 - Ficheros extra - Caso práctico 01 - Wordpress con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico01-Wordpress.zip)|
+| [Unidad 06 - Caso práctico 02 - Django con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.04%20-%20Caso%20practico%2002%20-%20Django%20con%20Docker%20Compose.pdf)|
+| [Unidad 06 - Ficheros extra - Caso práctico 02 - Django con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico02-Django.zip)|
+| [Unidad 06 - Caso práctico 03 - Proxy Nginx y balenceo escalado con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.05%20-%20Caso%20practico%2003%20-%20Proxy%20Nginx%20y%20balenceo%20escalado%20con%20Docker%20Compose.pdf)|
+| [Unidad 06 - Ficheros extra - Caso practico 03 - Proxy Nginx y balenceo escalado con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico03-EscaladoProxyNginxYApache.zip)|
+
+
+| Actividades UD06 |
+| ------ |
+| [Unidad 06 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.06%20-%20Actividades%20entregables.pdf) |
+
+
+
+
+
+# UD07 Utilidades para gestionar Docker
+
+| Casos prácticos UD07 |
+| ------ |
+| [Unidad 07 - Caso práctico 01 - Desarrollando con Visual Studio Code en un contenedor](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.01%20-%20Caso%20practico%2001%20-%20Desarrollando%20con%20Visual%20Studio%20Code%20en%20un%20contenedor.pdf)|
+| [Unidad 07 - Caso práctico 02 - Gestionando contenedores con Portainer CE](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.02%20-%20Caso%20practico%2002%20-%20Gestionando%20contenedores%20con%20Portainer%20CE.pdf)|
+| [Unidad 07 - Caso práctico 03 -LazyDocker, interfaz Docker para consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.05%20-%20Caso%20practico%2003%20-%20Proxy%20Nginx%20y%20balenceo%20escalado%20con%20Docker%20Compose.pdf)|
+| [Unidad 07 - Caso práctico 04 -cTop y Glances, monitores de Docker en consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.04%20-%20Caso%20practico%2004%20-%20cTop%20y%20Glances%2C%20monitores%20de%20Docker%20en%20consola.pdf)|
+| [Unidad 07 - Caso práctico 05 -IsardVDI gestor de virtualizacion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.05%20-%20Caso%20practico%2005%20-%20IsardVDI%20gestor%20de%20virtualizacion.pdf)|
+
+
+| Actividades UD07 |
+| ------ |
+| [Unidad 07 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.06%20-%20Actividades%20entregables.pdf) |
+
+
 
 
 
