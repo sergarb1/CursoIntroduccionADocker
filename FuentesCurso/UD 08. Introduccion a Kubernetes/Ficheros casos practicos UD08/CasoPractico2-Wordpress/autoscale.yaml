@@ -1,0 +1,16 @@
+apiVersion: autoscaling/v1
+#Tipo autoescalado horizontal
+kind: HorizontalPodAutoscaler
+metadata:
+  name: autoescaladowordpress
+spec:
+  #Indicamos a quien se aplica el auto-escalado
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: wordpress
+  #Minimo y maximo de replicas
+  minReplicas: 5
+  maxReplicas: 10
+  #Maximo de CPU a usar durante el auto-escalado
+  targetCPUUtilizationPercentage: 50

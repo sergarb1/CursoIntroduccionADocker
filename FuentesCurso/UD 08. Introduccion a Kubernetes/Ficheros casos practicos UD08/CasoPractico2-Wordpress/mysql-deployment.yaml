@@ -1,0 +1,72 @@
+apiVersion: v1
+#Definimos el servicio en el que expondremos MySQL
+kind: Service
+metadata:
+  name: wordpress-mysql
+  labels:
+    app: wordpress
+#Características del servicio MySQL
+spec:
+  ports:
+    #MySQL se expone en el puerto 3306
+    - port: 3306
+  selector:
+    app: wordpress
+    tier: mysql
+  clusterIP: None
+---
+#Declaramos un volumen de persistencia para almacenar el contenido de la base de datos
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mysql-pv-claim
+  labels:
+    app: wordpress
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 20Gi
+---
+#Definimos como sera el despliegue del MySQL
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: wordpress-mysql
+  labels:
+    app: wordpress
+spec:
+  selector:
+    matchLabels:
+      app: wordpress
+      tier: mysql
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: wordpress
+        tier: mysql
+    spec:
+      #Imagen para el contenedor
+      containers:
+      - image: mysql:5.6
+        name: mysql
+        #Variables de entorno definidas
+        env:
+        - name: MYSQL_ROOT_PASSWORD
+          value: CEFIREdocker
+        #Puerto a exponer de estos contenedores
+        ports:
+        - containerPort: 3306
+          name: mysql
+        #Montaje dentro del contenedor del volumen persistente
+        volumeMounts:
+        - name: mysql-persistent-storage
+          mountPath: /var/lib/mysql
+      #Indicamos que estos contenedores utilizaran el volumen persistente
+      volumes:
+      - name: mysql-persistent-storage
+        persistentVolumeClaim:
+          claimName: mysql-pv-claim

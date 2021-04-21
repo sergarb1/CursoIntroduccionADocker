@@ -1,6 +1,6 @@
 # Curso "Introducción a Docker"
 
-***Actualizado - 12/04/2021***
+***Actualizado - 22/04/2021***
 
 Aquí compartimos el material generado para el **curso "Introducción a Docker"**.  Este consta de un total de 8 unidades. En este curso intentamos introducir al uso de Docker a través de casos prácticos.
 
@@ -20,7 +20,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | CheatSheet Docker completa|
 | ------ |
-| [CheatSheet Docker completa - Hasta unidad 06](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/Docker%20CheatSheet%20COMPLETA%20-%20HASTA%20UD06.pdf) |
+| [CheatSheet Docker completa](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/Docker%20CheatSheet%20COMPLETA.pdf) |
 
 
 # UD01 Introducción a los contenedores y a Docker

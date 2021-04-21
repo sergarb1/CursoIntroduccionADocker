@@ -1,0 +1,30 @@
+#Indicamos la versión de la API
+apiVersion: apps/v1
+#Indicamos que este fichero es de un despliegue
+kind: Deployment
+#Metadatos del despliegue
+metadata:
+  name: midespliegue
+#Características del despliegue
+spec:
+  # Al inicio 3 réplicas (luego si queremos activamos autoescalado)
+  replicas: 3
+  #Selector de los pods
+  selector:
+    matchLabels:
+      app: midespliegue
+  #Plantilla de los pods
+  template:
+    #Metadatos de los pods
+    metadata:
+      labels:
+        app: midespliegue
+    #Caracteristicas de los pods
+    spec:
+      #Contenedor del pod
+      containers:
+      #Nombre, imagen y puerto expuesto
+      - name: miapp
+        image: sergarb1/flaskparakubernetes
+        ports:
+        - containerPort: 5000

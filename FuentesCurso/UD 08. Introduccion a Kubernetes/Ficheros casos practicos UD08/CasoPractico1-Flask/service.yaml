@@ -1,0 +1,18 @@
+#Versión de la API
+apiVersion: v1
+#Definimos un servicio
+kind: Service
+#Metadatos del servicio
+metadata:
+  name: midespliegue-http
+#Caracteristicas del servicio
+spec:
+  #Tipo de servicio
+  type: LoadBalancer
+  #Puerto a exponer
+  ports:
+    - port: 5000
+      targetPort: 5000
+  #A que aplica el servicio con app: midespliegue para serv
+  selector:
+    app: midespliegue
