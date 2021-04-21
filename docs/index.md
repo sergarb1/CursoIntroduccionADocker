@@ -155,7 +155,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | Documentación UD08 |
 | ------ |
 | [Unidad 08 - Introduccion a Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.01%20-%20Introduccion%20a%20Kubernetes.pdf) 
-| [Docker CheatSheet - Unidad 08](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.02%20-%20Docker%20CheatSheet%20-%20Version%20UD08.pdff) |
+| [Docker CheatSheet - Unidad 08](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.02%20-%20Docker%20CheatSheet%20-%20Version%20UD08.pdf) |
 
 
 | Casos prácticos UD08 |
