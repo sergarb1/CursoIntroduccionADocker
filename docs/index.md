@@ -150,4 +150,29 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 
 
+# UD08 Introducción a Kubernetes
+
+| Documentación UD08 |
+| ------ |
+| [Unidad 08 - Introduccion a Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.01%20-%20Introduccion%20a%20Kubernetes.pdf) 
+| [Docker CheatSheet - Unidad 08](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.02%20-%20Docker%20CheatSheet%20-%20Version%20UD08.pdff) |
+
+
+| Casos prácticos UD08 |
+| ------ |
+| [Unidad 08 - Caso práctico 08 - Aplicacion Flask con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.03%20-%20Caso%20practico%2001%20-%20Aplicacion%20Flask%20con%20Kubernetes.pdf)|
+| [Unidad 08 - Ficheros extra - Caso práctico 01 - Aplicacion Flask con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/Ficheros%20casos%20practicos%20UD08/UD08-CasoPractico01-Flask.zip)|
+| [Unidad 08 - Caso práctico 02 - Wordpress con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.04%20-%20Caso%20practico%2002%20-%20Wordpress%20con%20Kubernetes.pdf)|
+| [Unidad 08 - Ficheros extra - Caso práctico 02 - Wordpress con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/Ficheros%20casos%20practicos%20UD08/UD08-CasoPractico02-Wordpress.zip)|
+
+| Actividades UD08 |
+| ------ |
+| [Unidad 08 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.05%20-%20Actividades%20entregables.pdf) |
+
+
+
+
+
+
+
 
