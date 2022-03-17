@@ -136,9 +136,9 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | ------ |
 | [Unidad 07 - Caso práctico 01 - Desarrollando con Visual Studio Code en un contenedor](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.01%20-%20Caso%20practico%2001%20-%20Desarrollando%20con%20Visual%20Studio%20Code%20en%20un%20contenedor.pdf)|
 | [Unidad 07 - Caso práctico 02 - Gestionando contenedores con Portainer CE](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.02%20-%20Caso%20practico%2002%20-%20Gestionando%20contenedores%20con%20Portainer%20CE.pdf)|
-| [Unidad 07 - Caso práctico 03 -LazyDocker, interfaz Docker para consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.05%20-%20Caso%20practico%2003%20-%20Proxy%20Nginx%20y%20balenceo%20escalado%20con%20Docker%20Compose.pdf)|
-| [Unidad 07 - Caso práctico 04 -cTop y Glances, monitores de Docker en consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.04%20-%20Caso%20practico%2004%20-%20cTop%20y%20Glances%2C%20monitores%20de%20Docker%20en%20consola.pdf)|
-| [Unidad 07 - Caso práctico 05 (Extra) -IsardVDI gestor de virtualizacion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.05%20-%20Caso%20practico%2005%20-%20IsardVDI%20gestor%20de%20virtualizacion.pdf)|
+| [Unidad 07 - Caso práctico 03 - LazyDocker, interfaz Docker para consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.05%20-%20Caso%20practico%2003%20-%20Proxy%20Nginx%20y%20balenceo%20escalado%20con%20Docker%20Compose.pdf)|
+| [Unidad 07 - Caso práctico 04 - cTop y Glances, monitores de Docker en consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.04%20-%20Caso%20practico%2004%20-%20cTop%20y%20Glances%2C%20monitores%20de%20Docker%20en%20consola.pdf)|
+| [Unidad 07 - Caso práctico 05 (Extra) - IsardVDI gestor de virtualizacion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.05%20-%20Caso%20practico%2005%20-%20IsardVDI%20gestor%20de%20virtualizacion.pdf)|
 
 
 | Actividades UD07 |
