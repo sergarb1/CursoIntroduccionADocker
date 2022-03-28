@@ -1,6 +1,6 @@
 # Curso "Introducción a Docker"
 
-***Actualizado UD08 (Completo) - 27/03/2022***
+***Actualizado UD08 (Completo) - 28/03/2022***
 
 Aquí compartimos el material generado para el curso "Introducción a Docker". Este consta de un total de 8 unidades.  
 En este curso intentamos introducir al uso de Docker a través de casos prácticos.
