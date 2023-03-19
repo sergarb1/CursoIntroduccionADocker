@@ -1,0 +1,4 @@
+#Ignore run.sh
+run.sh
+#Ignore .env
+.env
