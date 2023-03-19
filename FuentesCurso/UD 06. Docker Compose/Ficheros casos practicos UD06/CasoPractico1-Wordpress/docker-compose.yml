@@ -5,8 +5,8 @@ version: "3.9"
 services:
   #Plantill del servicio "db"
   db:
-    #Se basa en la imagen "mysql", version 5.7
-    image: mysql:5.7
+    #Se basa en la imagen "mariadb", version 10.11.2
+    image: mariadb:10.11.2
     #Mapea en el volumen "db_data" el directorio "/var/lib/mysql", lo que da persistencia al contenido de 
     #Wordpress almacenado en la base de datos
     volumes:
@@ -14,13 +14,13 @@ services:
     #Indica que siempre que el servicio finalice, se reiniciara
     restart: always
     #Define un conjunto de variables de entorno para estos contenedores,
-    #indicando password de root de mysql, nombre de base de datos,
+    #indicando password de root de MariaDB, nombre de base de datos,
     # usuario con permisos root (necesario para conexiones remotas) y password de ese usuario
     environment:
-         MYSQL_ROOT_PASSWORD: somewordpress
-         MYSQL_DATABASE: wordpress
-         MYSQL_USER: wordpress
-         MYSQL_PASSWORD: wordpress
+         MARIADB_ROOT_PASSWORD: somewordpress
+         MARIADB_DATABASE: wordpress
+         MARIADB_USER: wordpress
+         MARIADB_PASSWORD: wordpress
   #Plantilla del servicio "wordpress"
   wordpress:
     #Indicamos que para lanzar este servicio, debe estar en marcha "db"
