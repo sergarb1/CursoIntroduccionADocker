@@ -1,6 +1,6 @@
 # Curso "Introducción a Docker"
 
-***Actualizado - 13/03/2023***
+***Actualizado - 19/03/2023***
 
 Aquí compartimos el material generado para el **curso "Introducción a Docker"**.  Este consta de un total de 8 unidades. En este curso intentamos introducir al uso de Docker a través de casos prácticos.
 
@@ -120,11 +120,17 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Unidad 06 - Ficheros extra - Caso práctico 02 - Django con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico02-Django.zip)|
 | [Unidad 06 - Caso práctico 03 - Proxy Nginx y balenceo escalado con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.05%20-%20Caso%20practico%2003%20-%20Proxy%20Nginx%20y%20balenceo%20escalado%20con%20Docker%20Compose.pdf)|
 | [Unidad 06 - Ficheros extra - Caso practico 03 - Proxy Nginx y balenceo escalado con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico03-EscaladoProxyNginxYApache.zip)|
+| [Unidad 06 - Caso práctico 04 - Whisper AI y Web Whisper](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.06%20-%20Caso%20practico%2004%20-%20Whisper%20AI%20y%20Web%20Whisper.pdf)|
+| [Unidad 06 - Ficheros extra - Caso practico 04 - Whisper AI y Web Whisper](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico04-WhisperAI-WhisperWeb.zip)|
+| [Unidad 06 - Caso práctico 05 - Bot de Telegram con Whisper AI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.07%20-%20Caso%20practico%2005%20-%20Bot%20de%20Telegram%20con%20Whisper%20AI.pdf)|
+| [Unidad 06 - Ficheros extra - Caso practico 05 - Bot de Telegram con Whisper AI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico05-WhisperAI-TelegramBot.zip)|
+| [Unidad 06 - Caso práctico 06 - Despliegue de Stable Diffusion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.08%20-%20Caso%20practico%2006%20-%20Despliegue%20de%20Stable%20Diffusion.pdf)|
+| [Unidad 06 - Ficheros extra - Caso practico 06 - Despliegue de Stable Diffusion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico06-StableDiffusion.zip)|
 
 
 | Actividades UD06 |
 | ------ |
-| [Unidad 06 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.06%20-%20Actividades%20entregables.pdf) |
+| [Unidad 06 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.09%20-%20Actividades%20entregables.pdf) |
 
 
 
