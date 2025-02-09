@@ -1,6 +1,6 @@
 # Curso "Introducción a Docker y Kubernetes"
 
-***Actualizado UD08 (Completo) - 26/01/2026***
+***Actualizado UD08 (Completo) - 09/02/2025***
 
 Aquí compartimos el material generado para el curso "Introducción a Docker". Este consta de un total de 8 unidades.  
 En este curso intentamos introducir al uso de Docker a través de casos prácticos.
