@@ -98,6 +98,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Unidad 05 - Caso práctico 03 - Acelerando juegos de prueba con tmpfs](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.05%20-%20Caso%20practico%2003%20-%20Acelerando%20juegos%20de%20prueba%20con%20tmpfs.pdf)|
 | [Unidad 05 - Ficheros extra - Caso práctico 03 - Acelerando juegos de prueba con tmpfs](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/Ficheros%20casos%20practicos%20UD05/UD05-CasoPractico003%20-%20dump.sql.zip)|
 | [Unidad 05 - Caso práctico 04 - Grafana](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.06%20-%20Caso%20practico%2004%20-%20Grafana.pdf)|
+| [Unidad 05 - Caso práctico Extra - Configuración de Proxy Inverso con Traefik y Docker en VPS para contenedores individuales](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.08%20-%20Extra-%20Configuraci%C3%B3n%20de%20Proxy%20Inverso%20con%20Traefik%20y%20Docker%20en%20VPS%20para%20Contenedores%20Individuales.pdf)|
 
 | Actividades UD05 |
 | ------ |
