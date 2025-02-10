@@ -127,11 +127,15 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Unidad 06 - Ficheros extra - Caso practico 05 - Bot de Telegram con Whisper AI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico05-WhisperAI-TelegramBot.zip)|
 | [Unidad 06 - Caso práctico 06 - Despliegue de Stable Diffusion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.08%20-%20Caso%20practico%2006%20-%20Despliegue%20de%20Stable%20Diffusion.pdf)|
 | [Unidad 06 - Ficheros extra - Caso practico 06 - Despliegue de Stable Diffusion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico06-StableDiffusion.zip)|
+| [Unidad 06 - Caso práctico 07 - Desplegando Odoo](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.09%20-%20Caso%20practico%2007%20-%20Desplegando%20Odoo.pdf)|
+| [Unidad 06 - Ficheros extra - Caso practico 07 - Desplegando Odoo](https://github.com/sergarb1/CursoIntroduccionADocker/raw/refs/heads/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico07-Odoo.zip)|
+| [Unidad 06 - Caso práctico 08 - Ejecutando DeepSeek R1 (Ollama) y Open WebUI](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.10%20-%20Caso%20practico%2008%20-%20Ejecutando%20DeepSeek%20R1%20(Ollama)%20y%20Open%20WebUI.pdf)|
+| [Unidad 06 - Ficheros extra - Caso practico 08 - Ejecutando DeepSeek R1 (Ollama) y Open WebUI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/refs/heads/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico08-Ollama-WebUI.zip)|
 
 
 | Actividades UD06 |
 | ------ |
-| [Unidad 06 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.09%20-%20Actividades%20entregables.pdf) |
+| [Unidad 06 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.11%20-%20Actividades%20entregables.pdf) |
 
 
 
