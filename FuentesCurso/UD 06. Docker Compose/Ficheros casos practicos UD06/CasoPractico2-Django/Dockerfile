@@ -1,5 +1,5 @@
 #Imagen base
-FROM python:3
+FROM python:3.7
 #Definimos la variable de entorno PYTHONBUFFERED
 ENV PYTHONUNBUFFERED=1
 #Establecemos como directorio de trabajo /code
