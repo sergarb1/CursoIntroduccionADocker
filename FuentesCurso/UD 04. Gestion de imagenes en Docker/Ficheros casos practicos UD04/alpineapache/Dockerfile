@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER Sergi <sergi.profesor@gmail.com> 
+MAINTAINER CursoDocker <cursodockerdocentes@gmail.com> 
 #Actualizamos e instalamos paquetes con APK para Alpine
 RUN apk update && apk add apache2 php php-apache2 openrc tar
 #Copiamos script para lanzar Apache 2
