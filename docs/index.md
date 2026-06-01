@@ -14,7 +14,8 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Documentación Guía didáctica|
 | ------ |
-| [Resumen Guía didáctica - Curso Introducción a Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/Guia%20did%C3%A1ctica%20Introduccion%20a%20Docker.pdf) |
+| [Resumen Guía didáctica - Curso Introducción a Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/Resumen%20-%20Guia%20Didactica%20Curso%20Introduccion%20a%20Docker.pdf) |
+| [Guía didáctica completa - Curso Introducción a Docker y Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/Guia%20did%C3%A1ctica%20Introduccion%20a%20Docker%20y%20Kubernetes.pdf) |
 
 # CheatSheet Docker completa
 
@@ -51,10 +52,10 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Casos prácticos UD03 |
 | ------ |
-| [Unidad 03 - Caso práctico 01 - Práctica de comandos en contendor Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.03%20-%20Caso%20practico%2001%20-%20Practica%20de%20comandos%20en%20contendor%20Docker.pdf)|
-| [Unidad 03 - Ficheros extra - Caso práctico 01 - Práctica de comandos en contendor Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/Ficheros%20casos%20practicos%20UD03/Unidad%2003%20-%20Ficheros%20caso%20pr%C3%A1ctico%2001%20(Script%20profesor%20y%20alumnos).zip)|
-| [Unidad 03 - Caso práctico 02 - Instalando LAMP + Wordpress en contenedor](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.04%20-%20Caso%20practico%2002%20-%20Instalando%20LAMP%20%2B%20Wordpress%20en%20contenedor.pdf)|
-| [Unidad 03 - Caso práctico 03 - Accediendo a interfaz gráfica con NoVNC](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.05%20-%20Caso%20practico%2003%20-%20Accediendo%20a%20interfaz%20grafica%20con%20NoVNC.pdf)|
+| [Unidad 03 - Caso práctico 01 - Práctica de comandos en contendor Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.04%20-%20Caso%20practico%2002%20-%20Practica%20de%20comandos%20en%20contendor%20Docker.pdf)|
+| [Unidad 03 - Ficheros extra - Caso práctico 01 - Práctica de comandos en contendor Docker](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/Ficheros%20casos%20practicos%20UD03/Unidad%2003%20-%20Ficheros%20caso%20pr%C3%A1ctico%2001%20%28Script%20profesor%20y%20alumnos%29.zip)|
+| [Unidad 03 - Caso práctico 02 - Instalando LAMP + Wordpress en contenedor](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.05%20-%20Caso%20practico%2003%20-%20Instalando%20LAMP%20%2B%20Wordpress%20en%20contenedor.pdf)|
+| [Unidad 03 - Caso práctico 03 - Accediendo a interfaz gráfica con NoVNC](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2003.%20Principales%20acciones%20con%20Docker/UD%2003.03%20-%20Caso%20practico%2001%20-%20Accediendo%20a%20interfaz%20grafica%20con%20NoVNC.pdf)|
 
 
 | Actividades UD03 |
@@ -73,14 +74,12 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | ------ |
 | [Unidad 04 - Caso práctico 01 - Creando imagen Ubuntu con nano](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/UD%2004.03%20-%20Caso%20practico%2001%20-%20Creando%20imagen%20Ubuntu%20con%20nano.pdf)|
 | [Unidad 04 - Ficheros extra - Caso práctico 01 - Creando imagen Ubuntu con nano](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/Ficheros%20casos%20practicos%20UD04/UD04-CasoPractico01-ubuntunano.zip)|
-| [Unidad 04 - Caso práctico 02 - Creando imagen con APP de ejemplo Docker en Node](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/UD%2004.04%20-%20Caso%20practico%2002%20-%20Creando%20imagen%20con%20APP%20ejemplo%20Docker%20en%20Node.pdf)|
-| [Unidad 04 - Ficheros extra - Caso práctico 02 - Creando imagen con APP de ejemplo Docker en Node](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/Ficheros%20casos%20practicos%20UD04/UD04-CasoPractico02-sampledocker.zip)|
-| [Unidad 04 - Caso práctico 03 - Apache con PHP desde Alpine](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/UD%2004.05%20-%20Caso%20practico%2003%20-%20Apache2%20con%20PHP%20desde%20Alpine.pdf)|
-| [Unidad 04 - Ficheros extra - Caso práctico 03 - Apache con PHP desde Alpine](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/Ficheros%20casos%20practicos%20UD04/UD04-CasoPractico03-alpineapache.zip)|
+| [Unidad 04 - Caso práctico 02 - Apache con PHP desde Alpine](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/UD%2004.04%20-%20Caso%20practico%2002%20-%20Apache2%20con%20PHP%20desde%20Alpine.pdf)|
+| [Unidad 04 - Ficheros extra - Caso práctico 02 - Apache con PHP desde Alpine](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/Ficheros%20casos%20practicos%20UD04/UD04-CasoPractico02-alpineapache.zip)|
 
 | Actividades UD04 |
 | ------ |
-| [Unidad 04 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/UD%2004.06%20-%20Actividades%20entregables.pdf) |
+| [Unidad 04 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2004.%20Gestion%20de%20imagenes%20en%20Docker/UD%2004.05%20-%20Actividades%20entregables.pdf) |
 
 # UD05 Redes y volúmenes en Docker
 
@@ -92,17 +91,17 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Casos prácticos UD05 |
 | ------ |
-| [Unidad 05 - Caso práctico 01 - Wordpress + MariaDB](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.03%20-%20Caso%20practico%2001%20-%20Wordpress%20%2B%20MariaDB.pdf)|
-| [Unidad 05 - Caso práctico 02 - Balanceo de carga con HAProxy](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.04%20-%20Caso%20practico%2002%20-%20Balanceo%20de%20carga%20con%20HAProxy.pdf)|
+| [Unidad 05 - Caso práctico 01 - Wordpress + MariaDB](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.04%20-%20Caso%20practico%2002%20-%20Wordpress%20%2B%20MariaDB.pdf)|
+| [Unidad 05 - Caso práctico 02 - Balanceo de carga con HAProxy](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.05%20-%20Caso%20practico%2003%20-%20Balanceo%20de%20carga%20con%20HAProxy.pdf)|
 | [Unidad 05 - Ficheros extra - Caso práctico 02 - Balanceo de carga con HAProxy](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/Ficheros%20casos%20practicos%20UD05/UD05-CasoPractico02-HAProxy.zip)|
-| [Unidad 05 - Caso práctico 03 - Acelerando juegos de prueba con tmpfs](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.05%20-%20Caso%20practico%2003%20-%20Acelerando%20juegos%20de%20prueba%20con%20tmpfs.pdf)|
+| [Unidad 05 - Caso práctico 03 - Acelerando juegos de prueba con tmpfs](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.06%20-%20Caso%20practico%2004%20-%20Acelerando%20juegos%20de%20prueba%20con%20tmpfs.pdf)|
 | [Unidad 05 - Ficheros extra - Caso práctico 03 - Acelerando juegos de prueba con tmpfs](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/Ficheros%20casos%20practicos%20UD05/UD05-CasoPractico003%20-%20dump.sql.zip)|
-| [Unidad 05 - Caso práctico 04 - Grafana](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.06%20-%20Caso%20practico%2004%20-%20Grafana.pdf)|
-| [Unidad 05 - Caso práctico Extra - Configuración de Proxy Inverso con Traefik y Docker en VPS para contenedores individuales](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.08%20-%20Extra-%20Configuraci%C3%B3n%20de%20Proxy%20Inverso%20con%20Traefik%20y%20Docker%20en%20VPS%20para%20Contenedores%20Individuales.pdf)|
+| [Unidad 05 - Caso práctico 04 - Grafana](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.03%20-%20Caso%20practico%2001%20-%20Grafana.pdf)|
+| [Unidad 05 - Caso práctico Extra - Configuración de Proxy Inverso con Traefik y Docker en VPS para contenedores individuales](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.08%20-%20Extra-%20Configuraci%C3%B3n%20de%20Proxy%20Inverso%20con%20Traefik%20y%20Docker%20en%20VPS%20para%20Contenedores%20Individuales.pdf)|
 
 | Actividades UD05 |
 | ------ |
-| [Unidad 05 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.07%20-%20Actividades%20entregables.pdf)|
+| [Unidad 05 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2005.%20Redes%20y%20volumenes%20en%20Docker/UD%2005.07%20-%20Actividades%20entregables.pdf)|
 
 
 # UD06 Docker Compose
@@ -115,27 +114,27 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Casos prácticos UD06 |
 | ------ |
-| [Unidad 06 - Caso práctico 01 - Wordpress con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.03%20-%20Caso%20practico%2001%20-%20Wordpress%20con%20Docker%20Compose.pdf)|
+| [Unidad 06 - Caso práctico 01 - Wordpress con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.04%20-%20Caso%20practico%2002%20-%20Wordpress%20con%20Docker%20Compose.pdf)|
 | [Unidad 06 - Ficheros extra - Caso práctico 01 - Wordpress con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico01-Wordpress.zip)|
-| [Unidad 06 - Caso práctico 02 - Django con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.04%20-%20Caso%20practico%2002%20-%20Django%20con%20Docker%20Compose.pdf)|
+| [Unidad 06 - Caso práctico 02 - Django con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.09%20-%20Caso%20practico%2007%20-%20Django%20con%20Docker%20Compose.pdf)|
 | [Unidad 06 - Ficheros extra - Caso práctico 02 - Django con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico02-Django.zip)|
-| [Unidad 06 - Caso práctico 03 - Proxy Nginx y balenceo escalado con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.05%20-%20Caso%20practico%2003%20-%20Proxy%20Nginx%20y%20balenceo%20escalado%20con%20Docker%20Compose.pdf)|
+| [Unidad 06 - Caso práctico 03 - Proxy Nginx y balenceo escalado con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.10%20-%20Caso%20practico%2008%20-%20Proxy%20Nginx%20y%20balanceo%20escalado%20con%20Docker%20Compose.pdf)|
 | [Unidad 06 - Ficheros extra - Caso practico 03 - Proxy Nginx y balenceo escalado con Docker Compose](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico03-EscaladoProxyNginxYApache.zip)|
-| [Unidad 06 - Caso práctico 04 - Whisper AI y Web Whisper](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.06%20-%20Caso%20practico%2004%20-%20Whisper%20AI%20y%20Web%20Whisper.pdf)|
+| [Unidad 06 - Caso práctico 04 - Whisper AI y Web Whisper](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.05%20-%20Caso%20practico%2003%20-%20Whisper%20AI%20y%20Web%20Whisper.pdf)|
 | [Unidad 06 - Ficheros extra - Caso practico 04 - Whisper AI y Web Whisper](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico04-WhisperAI-WhisperWeb.zip)|
 | [Unidad 06 - Caso práctico 05 - Bot de Telegram con Whisper AI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.07%20-%20Caso%20practico%2005%20-%20Bot%20de%20Telegram%20con%20Whisper%20AI.pdf)|
 | [Unidad 06 - Ficheros extra - Caso practico 05 - Bot de Telegram con Whisper AI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico05-WhisperAI-TelegramBot.zip)|
 | [Unidad 06 - Caso práctico 06 - Despliegue de Stable Diffusion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.08%20-%20Caso%20practico%2006%20-%20Despliegue%20de%20Stable%20Diffusion.pdf)|
 | [Unidad 06 - Ficheros extra - Caso practico 06 - Despliegue de Stable Diffusion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico06-StableDiffusion.zip)|
-| [Unidad 06 - Caso práctico 07 - Desplegando Odoo](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.09%20-%20Caso%20practico%2007%20-%20Desplegando%20Odoo.pdf)|
-| [Unidad 06 - Ficheros extra - Caso practico 07 - Desplegando Odoo](https://github.com/sergarb1/CursoIntroduccionADocker/raw/refs/heads/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico07-Odoo.zip)|
-| [Unidad 06 - Caso práctico 08 - Ejecutando DeepSeek R1 (Ollama) y Open WebUI](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.10%20-%20Caso%20practico%2008%20-%20Ejecutando%20DeepSeek%20R1%20(Ollama)%20y%20Open%20WebUI.pdf)|
-| [Unidad 06 - Ficheros extra - Caso practico 08 - Ejecutando DeepSeek R1 (Ollama) y Open WebUI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/refs/heads/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico08-Ollama-WebUI.zip)|
+| [Unidad 06 - Caso práctico 07 - Desplegando Odoo](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.03%20-%20Caso%20practico%2001%20-%20Desplegando%20Odoo.pdf)|
+| [Unidad 06 - Ficheros extra - Caso practico 07 - Desplegando Odoo](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico07-Odoo.zip)|
+| [Unidad 06 - Caso práctico 08 - Ejecutando DeepSeek R1 (Ollama) y Open WebUI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.06%20-%20Caso%20practico%2004%20-%20Ejecutando%20DeepSeek%20R1%20%28Ollama%29%20y%20Open%20WebUI.pdf)|
+| [Unidad 06 - Ficheros extra - Caso practico 08 - Ejecutando DeepSeek R1 (Ollama) y Open WebUI](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/Ficheros%20casos%20practicos%20UD06/UD06-CasoPractico08-Ollama-WebUI.zip)|
 
 
 | Actividades UD06 |
 | ------ |
-| [Unidad 06 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.11%20-%20Actividades%20entregables.pdf) |
+| [Unidad 06 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.11%20-%20Actividades%20entregables.pdf) |
 
 
 
@@ -147,10 +146,10 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | ------ |
 | [Unidad 07 - Caso práctico 01 - Desarrollando con Visual Studio Code en un contenedor](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.01%20-%20Caso%20practico%2001%20-%20Desarrollando%20con%20Visual%20Studio%20Code%20en%20un%20contenedor.pdf)|
 | [Unidad 07 - Caso práctico 02 - Gestionando contenedores con Portainer CE](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.02%20-%20Caso%20practico%2002%20-%20Gestionando%20contenedores%20con%20Portainer%20CE.pdf)|
-| [Unidad 07 - Caso practico 02 (Extra) - Certificado Autofirmado para Nginx desde Portainer CE](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.02%20-%20Caso%20practico%2002%20(Extra)%20-%20Certificado%20Autofirmado%20para%20Nginx%20desde%20Portainer%20CE.pdf)|
-| [Unidad 07 - Caso práctico 03 - LazyDocker, interfaz Docker para consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2006.%20Docker%20Compose/UD%2006.05%20-%20Caso%20practico%2003%20-%20Proxy%20Nginx%20y%20balenceo%20escalado%20con%20Docker%20Compose.pdf)|
+| [Unidad 07 - Caso practico 02 (Extra) - Certificado Autofirmado para Nginx desde Portainer CE](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.02%20-%20Caso%20practico%2002%20%28Extra%29%20-%20Certificado%20Autofirmado%20para%20Nginx%20desde%20Portainer%20CE.pdf)|
+| [Unidad 07 - Caso práctico 03 - LazyDocker, interfaz Docker para consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.03%20-%20Caso%20practico%2003%20-%20LazyDocker%20interfaz%20Docker%20para%20consola.pdf)|
 | [Unidad 07 - Caso práctico 04 - cTop y Glances, monitores de Docker en consola](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.04%20-%20Caso%20practico%2004%20-%20cTop%20y%20Glances%2C%20monitores%20de%20Docker%20en%20consola.pdf)|
-| [Unidad 07 - Caso práctico 05 (Extra) - IsardVDI gestor de virtualizacion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.05%20-%20Caso%20practico%2005%20-%20IsardVDI%20gestor%20de%20virtualizacion.pdf)|
+| [Unidad 07 - Caso práctico 05 (Extra) - IsardVDI gestor de virtualizacion](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2007.%20Utilidades%20para%20gestionar%20Docker/UD%2007.05%20-%20Caso%20practico%2005%20%28Extra%29%20-%20IsardVDI%20gestor%20de%20virtualizacion.pdf)|
 
 
 | Actividades UD07 |
@@ -172,14 +171,14 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Casos prácticos UD08 |
 | ------ |
-| [Unidad 08 - Caso práctico 08 - Aplicacion Flask con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.03%20-%20Caso%20practico%2001%20-%20Aplicacion%20Flask%20con%20Kubernetes.pdf)|
+| [Unidad 08 - Caso práctico 01 - Aplicacion Flask con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.03%20-%20Caso%20practico%2001%20-%20Aplicacion%20Flask%20con%20Kubernetes.pdf)|
 | [Unidad 08 - Ficheros extra - Caso práctico 01 - Aplicacion Flask con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/Ficheros%20casos%20practicos%20UD08/UD08-CasoPractico01-Flask.zip)|
 | [Unidad 08 - Caso práctico 02 - Wordpress con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.04%20-%20Caso%20practico%2002%20-%20Wordpress%20con%20Kubernetes.pdf)|
 | [Unidad 08 - Ficheros extra - Caso práctico 02 - Wordpress con Kubernetes](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/Ficheros%20casos%20practicos%20UD08/UD08-CasoPractico02-Wordpress.zip)|
 
 | Actividades UD08 |
 | ------ |
-| [Unidad 08 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.05%20-%20Actividades%20entregables.pdf) |
+| [Unidad 08 - Actividades Entregables](https://github.com/sergarb1/CursoIntroduccionADocker/raw/main/FuentesCurso/UD%2008.%20Introduccion%20a%20Kubernetes/UD%2008.05%20-%20Actividades%20entregables%20opcionales.pdf) |
 
 
 
