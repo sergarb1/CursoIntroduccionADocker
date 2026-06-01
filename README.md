@@ -9,7 +9,7 @@
   <a href="https://github.com/sergarb1/CursoIntroduccionADocker/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-CC%20BY--SA--NC-red?style=for-the-badge" alt="License">
   </a>
-  <img src="https://img.shields.io/badge/Actualizado-09%2F02%2F2025-0078D4?style=for-the-badge" alt="Updated">
+  <img src="https://img.shields.io/badge/Actualizado-01%2F06%2F2026-0078D4?style=for-the-badge" alt="Updated">
   <img src="https://img.shields.io/badge/Unidades-8-FF6F00?style=for-the-badge" alt="8 Units">
 </p>
 
